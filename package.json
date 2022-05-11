@@ -1,0 +1,33 @@
+{
+  "name": "lab3-backend-b4-21-22",
+  "version": "1.0.0",
+  "description": "live demo lab 3",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rouws/lab3-backend-b4-21-22.git"
+  },
+  "keywords": [
+    "express",
+    "routing",
+    "template engine",
+    "forms"
+  ],
+  "author": "sonja Rouwhorst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rouws/lab3-backend-b4-21-22/issues"
+  },
+  "homepage": "https://github.com/rouws/lab3-backend-b4-21-22#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
